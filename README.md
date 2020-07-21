@@ -1,4 +1,4 @@
-# SQL-
+# SQL
 Create your own sql database.
 
 The ERD diagram contains the diagram of the database I want to create.
